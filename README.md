@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map https://indigenizemilwaukeeproject.github.io/indigenousmke/
+- Leaflet Map https://indigenizemilwaukeeproject.github.io/demo/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1K6RlEqFrMGpBo2V24EDoH7Jn4wVDrmpB6lQNk1ssOOk/edit#gid=0
 
 ## Create Your Own
